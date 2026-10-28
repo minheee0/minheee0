@@ -36,6 +36,7 @@
 
 <br/>
 
+<!--
 ## 📂 Projects
 
 ### 🏡 [만복 — 독채 한옥 펜션 예약·결제 서비스](https://github.com/minheee0/pension)
@@ -61,7 +62,8 @@ IoT 센서로 실내 식물 환경을 모니터링하고 제어하는 앱의 백
 
 `Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `AWS EC2·RDS`
 
-<br/>
+<br/> 
+-->
 
 ## 📫 Contact
 
