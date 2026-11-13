@@ -67,4 +67,4 @@ IoT 센서로 실내 식물 환경을 모니터링하고 제어하는 앱의 백
 
 ## 📫 Contact
 
-<a href="mailto:alsgml0125@gachon.ac.kr"><img src="https://img.shields.io/badge/Email-alsgml0125@gachon.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:minheee1@naver.com"><img src="https://img.shields.io/badge/Email-alsgml0125@gachon.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
